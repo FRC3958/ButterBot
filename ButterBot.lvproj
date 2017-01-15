@@ -670,6 +670,7 @@ AddOutputFilter chunkFilter
 				<Item Name="Z900_navX_Util_LittleEndian_to_BigEndian.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Sensors/navX/_Util/Z900_navX_Util_LittleEndian_to_BigEndian.vi"/>
 				<Item Name="Z900_navX_ZeroVectorTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Sensors/navX/_TypeDefs/Z900_navX_ZeroVectorTypeDef.ctl"/>
 				<Item Name="Zero Displacement.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Sensors/navX/Set/Zero Displacement.vi"/>
+				<Item Name="Zero Velocity.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Sensors/navX/Set/Zero Velocity.vi"/>
 				<Item Name="Zero Yaw.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Sensors/navX/Set/Zero Yaw.vi"/>
 			</Item>
 			<Item Name="FRC_NetworkCommunication.dll" Type="Document" URL="FRC_NetworkCommunication.dll">
